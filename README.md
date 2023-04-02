@@ -6,7 +6,10 @@ I am communicating my interest in 2 projects this year:
 2. End-to-End Deep Learning Regression for Measurements with the CMS experiment
 
 The requisite tasks are listed below:
+
 1.[Common Task 1](./common_task_1/)
+
 2.[Common Task 2](./common_task_2/)
+
 3.[Vision Transformers](./vision_transformers/)
 
