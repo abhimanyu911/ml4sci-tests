@@ -4,9 +4,14 @@
 The requisite task for Quark Gluon classification has been performed with a 95-2.5-2.5 split of training,validation and testing on the entire data(all 3 parquet files). I have created an efficient streaming pipeline for data I/0 which helps us reduce our memory footprint and achieve decent results, which are summarized below:
 
 
-Data split| ROC AUC score
-Training| 76.2
-Validation| 72.8
-Testing| 77.0
+[See notebook](./common_task_2.ipynb)
+
+
+| DataSplit       | ROC AUC score   |
+| --------------- | --------------- |
+| Training        | 76.2            |
+| Validation      | 72.8            |
+| Test            | 77.0            |
+
 
 ![](./roc.png)
