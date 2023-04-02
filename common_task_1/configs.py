@@ -1,0 +1,9 @@
+electron_dir = './data/SingleElectronPt50_IMGCROPS_n249k_RHv1.hdf5'
+photon_dir = './data/SinglePhotonPt50_IMGCROPS_n249k_RHv1.hdf5'
+batch_size = 64
+epochs = 30
+weights_path = './weights_tf/best_weights'
+weights_path_torch = './weights_torch'
+logs_path_torch = './logs_torch'
+learning_rate = 1e-3
+input_shape = (32,32,2)
