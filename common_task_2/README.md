@@ -10,7 +10,7 @@ The requisite task for Quark Gluon classification has been performed with a 95-2
 | Data Split      | ROC AUC score   |
 | --------------- | --------------- |
 | Training        | 0.762           |
-| Validation      | 0.73            |
+| Validation      | 0.78            |
 | Test            | 0.77            |
 
 
