@@ -4,8 +4,8 @@ Results:
 
 | Data Split      | ROC AUC score   |
 | --------------- | --------------- |
-| Validation      | 78.0            |
-| Test            | 76.0            |
+| Validation      | 0.78            |
+| Test            | 0.76            |
 
 Discussion:
 
