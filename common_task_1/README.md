@@ -6,7 +6,7 @@ This task to classify Electrons/Photons from the given data was a success inspit
 [See notebook](./common_task_1.ipynb)
 
 
-| DataSplit       | ROC AUC score   |
+| Data Split      | ROC AUC score   |
 | --------------- | --------------- |
 | Training        | 81.2            |
 | Validation      | 81.5            |
