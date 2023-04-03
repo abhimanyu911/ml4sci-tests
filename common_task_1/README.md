@@ -8,9 +8,9 @@ This task to classify Electrons/Photons from the given data was a success inspit
 
 | Data Split      | ROC AUC score   |
 | --------------- | --------------- |
-| Training        | 81.2            |
-| Validation      | 81.5            |
-| Test            | 81.0            |
+| Training        | 0.812           |
+| Validation      | 0.815           |
+| Test            | 0.81            |
 
 
 ![](./roc.png)
