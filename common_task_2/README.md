@@ -7,7 +7,7 @@ The requisite task for Quark Gluon classification has been performed with a 95-2
 [See notebook](./common_task_2.ipynb)
 
 
-| DataSplit       | ROC AUC score   |
+| Data Split      | ROC AUC score   |
 | --------------- | --------------- |
 | Training        | 76.2            |
 | Validation      | 72.8            |
