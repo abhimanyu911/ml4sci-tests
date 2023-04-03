@@ -9,5 +9,5 @@ Results:
 
 Discussion:
 
-[See Discussion](./task_3.ipynb)
+[See Discussion(scroll to bottom)](./task_3.ipynb)
 
