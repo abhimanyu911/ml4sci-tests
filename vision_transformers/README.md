@@ -2,7 +2,7 @@
 
 Results:
 
-| DataSplit       | ROC AUC score   |
+| Data Split      | ROC AUC score   |
 | --------------- | --------------- |
 | Validation      | 78.0            |
 | Test            | 76.0            |
