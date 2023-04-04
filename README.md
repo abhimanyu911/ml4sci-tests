@@ -6,9 +6,9 @@ I am communicating my interest in 1 project this year:
 
 The requisite tasks are listed below:
 
-1.[Common Task 1](./common_task_1/)
+1) [Common Task 1](./common_task_1/)
 
-2.[Common Task 2](./common_task_2/)
+2)[Common Task 2](./common_task_2/)
 
-3.[Vision Transformers](./vision_transformers/)
+3) [Vision Transformers](./vision_transformers/)
 
