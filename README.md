@@ -8,7 +8,7 @@ The requisite tasks are listed below:
 
 1) [Common Task 1](./common_task_1/)
 
-2)[Common Task 2](./common_task_2/)
+2) [Common Task 2](./common_task_2/)
 
 3) [Vision Transformers](./vision_transformers/)
 
