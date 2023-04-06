@@ -15,7 +15,7 @@
 ## Discussion:
 
 
-[See full Discussion(scroll to bottom)](./task_3.ipynb)
+### [See full Discussion(scroll to bottom)](./task_3.ipynb)
 
 
 ![](./discussion.png)
