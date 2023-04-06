@@ -1,6 +1,6 @@
 # ViT for Electron Photon Classification
 
-Results:
+## Results:
 
 | Data Split      | ROC AUC score   |
 | --------------- | --------------- |
@@ -12,7 +12,7 @@ Results:
 ![](./roc.png)
 
 
-Discussion:
+## Discussion:
 
 
 [See full Discussion(scroll to bottom)](./task_3.ipynb)
