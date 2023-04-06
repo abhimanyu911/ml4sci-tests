@@ -8,7 +8,14 @@ Results:
 | Validation      | 0.78            |
 | Test            | 0.76            |
 
+
+![](./roc.png)
+
+
 Discussion:
 
-[See Discussion(scroll to bottom)](./task_3.ipynb)
 
+[See full Discussion(scroll to bottom)](./task_3.ipynb)
+
+
+![](./discussion.png)
