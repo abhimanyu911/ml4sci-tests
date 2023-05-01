@@ -1,4 +1,4 @@
-This repository contains the code for the evaluation tasks for for ML4SCI Umbrella Organisation as a part of GSOC 2023.
+This repository contains the code for the evaluation tasks for the ML4SCI Umbrella Organisation as a part of GSOC 2023.
 
 I am communicating my interest in 1 project this year:
 
